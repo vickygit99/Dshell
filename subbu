@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+printf("subbu")
+return 0;
+}
